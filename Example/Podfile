@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RYLDevHelper_Example' do
+  pod 'RYLDevHelper', :path => '../'
+
+  target 'RYLDevHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

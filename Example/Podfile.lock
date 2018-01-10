@@ -1,0 +1,16 @@
+PODS:
+  - RYLDevHelper (0.1.0)
+
+DEPENDENCIES:
+  - RYLDevHelper (from `../`)
+
+EXTERNAL SOURCES:
+  RYLDevHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RYLDevHelper: 4585b0d93dd4ce3380b486690de064c4574324f1
+
+PODFILE CHECKSUM: 86935ea65f479b33a8a30755e69b71e24f8527ac
+
+COCOAPODS: 1.1.1
